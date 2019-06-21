@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello Laxman in Teamcity SD!";
+    private final String message = "Hello Laxman in Teamcity SD and AD!";
 
     public App() {}
 
