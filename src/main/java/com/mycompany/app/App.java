@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello Laxman in Teamcity!";
+    private final String message = "Hello Laxman in Teamcity feature brach!";
 
     public App() {}
 
