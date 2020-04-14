@@ -27,6 +27,7 @@
         <version>2.2</version>
       </plugin>
      <plugin>
+         <!-- Testing web hook -->
         <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
